@@ -17,6 +17,6 @@ public class SocialMediaApp {
      * @throws InterruptedException 
      */
     public static void main(String[] args) throws InterruptedException {
-        SpringApplication.run(SocialMediaApp.class, args);
+        SpringApplication.run(SocialMediaApp.class, args); 
     }
 }
